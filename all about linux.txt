@@ -1,0 +1,28 @@
+linux imp topics 
+
+1. history & architecture--------------------------
+2. user management---------------------------------
+3. fsh---------------------------------------------
+4. permission mngmnt-------------------------------
+5. job scheduling  --------------------------------
+6. package mngmnt
+7. networking
+8. process mngmnt ---------------------------------
+9. sys configuration
+10. disk manmnt
+11. mounting unmounting
+12. sys monitoring and performance tuning
+13. security
+14. backup & recovery
+15. boot process
+16. automation and configuration mngmnt
+17. virtualizatiom and containarizatiom
+18. linux server & service administration
+19.zip unzip & archieve
+
+
+
+
+resume purpose 
+
+vim 
